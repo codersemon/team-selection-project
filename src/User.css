@@ -1,0 +1,23 @@
+.single-user {
+    display: flex;
+    border: 1px solid #ddd;
+    width: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    align-items: center;
+    border-radius: 10px;
+}
+.u-img {
+    width: 33%;
+    padding: 15px;
+}
+.u-img img{
+    width: 100%;
+}
+.u-details h4 span{
+    color: rgb(0, 132, 255);
+}
+.u-details button{
+    margin-right: 10px;
+}
